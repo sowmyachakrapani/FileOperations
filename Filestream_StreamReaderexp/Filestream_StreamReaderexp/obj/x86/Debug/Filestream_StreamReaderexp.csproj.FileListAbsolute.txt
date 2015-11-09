@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\Filestream_StreamReaderexp\Filestream_StreamReaderexp\bin\Debug\Filestream_StreamReaderexp.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Filestream_StreamReaderexp\Filestream_StreamReaderexp\bin\Debug\Filestream_StreamReaderexp.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\Filestream_StreamReaderexp\Filestream_StreamReaderexp\obj\x86\Debug\Filestream_StreamReaderexp.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Filestream_StreamReaderexp\Filestream_StreamReaderexp\obj\x86\Debug\Filestream_StreamReaderexp.pdb
